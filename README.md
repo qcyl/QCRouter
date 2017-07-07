@@ -22,7 +22,7 @@ pod "QCRouter"
 
 ## Author
 
-qi chao, m17744407674@163.com
+qi chao, qichao@qczyl.club
 
 ## License
 
