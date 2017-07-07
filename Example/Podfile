@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'QCRouter_Example' do
+  pod 'QCRouter', :path => '../'
+
+  target 'QCRouter_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

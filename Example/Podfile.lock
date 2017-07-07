@@ -1,0 +1,16 @@
+PODS:
+  - QCRouter (0.1.0)
+
+DEPENDENCIES:
+  - QCRouter (from `../`)
+
+EXTERNAL SOURCES:
+  QCRouter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  QCRouter: 3f86a32ffe4ffe227c0b50fc9252770207675adc
+
+PODFILE CHECKSUM: 2b1a8325a6526c2de4096efc619e2e762d418277
+
+COCOAPODS: 1.2.0
